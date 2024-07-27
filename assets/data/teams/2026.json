@@ -16,7 +16,7 @@
         "dis": "I am a tech enthusiast and web aficionado, passionate about coding, innovative projects, and mentoring, with a strong focus on exploring and contributing to the web development and open-source communities.",
         "github": "https://github.com/Divija-Arora",
         "linkedin": "https://www.linkedin.com/in/divija-arora-5702b5256?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
-        "post": "Operational/Open Source Lead",
+        "post": "Operations & Open Source Lead",
         "isFront": true
     },
     {
@@ -26,7 +26,7 @@
         "dis": "I am an AI/ML enthusiast on an exciting odyssey to harness machine learning for real-world solutions. My journey is driven by innovation, continuous learning, and collaboration with tech communities.",
         "github": "https://github.com/Shouryabhardwajj",
         "linkedin": "https://www.linkedin.com/in/shouryabhardwajj/",
-        "post": "Operational/AI and ML Lead",
+        "post": "Operations & ML Lead",
         "isFront": true
     },
     {
@@ -34,18 +34,18 @@
         "username": "Lakshay Bhatia",
         "image": "https://res.cloudinary.com/dvvx6gwwv/image/upload/v1722069796/lakshay_vc1cof.jpg",
         "dis": "Passionate tech enthusiast dedicated to fostering innovation and community engagement.",
-        "github": "#",
+        "github": "https://github.com/Lakshayb143",
         "linkedin": "https://www.linkedin.com/in/lakshay-bhatia-3b52b8256",
         "post": "Development Lead",
         "isFront": true
     },
     {
         "id": 5,
-        "username": "Sagar",
+        "username": "Sagar Mamodia",
         "image": "https://res.cloudinary.com/dvvx6gwwv/image/upload/v1722069788/sagar_mlot4b.jpg",
         "dis": "I am a Competitive Programmer and an AI enthusiast who believe in the revolutionary potential of AI.",
-        "github": "#",
-        "linkedin": "#",
+        "github": "https://github.com/sagarmamodia",
+        "linkedin": "https://www.linkedin.com/in/sagarmamodia",
         "post": "CP Lead",
         "isFront": false
     },
@@ -54,9 +54,9 @@
         "username": "Sukriti Pandit",
         "image": "https://res.cloudinary.com/dvvx6gwwv/image/upload/v1722069733/sukriti_g3cfr9.jpg",
         "dis": "Leading our AI/ML/Data Science/ initiatives, my curiosity for data is akin to my adventurous spirit. Communities like this one help me explore, learn, and grow, making open source the legacy where the treasure begins.",
-        "github": "#",
-        "linkedin": "#",
-        "post": "AI and ML Lead",
+        "github": "https://github.com/SukritiPandit",
+        "linkedin": "https://www.linkedin.com/in/sukriti-pandit-412707256/",
+        "post": "ML Lead",
         "isFront": false
     },
     {
